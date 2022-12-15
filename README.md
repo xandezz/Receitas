@@ -16,3 +16,5 @@ o cliente vai ter acesso ao modo de preparo, rendimento, ingredientes entre outr
 
 Na aplicação eu tenho duas paginas o "index.html" que é a página principal da aplicação, onde você vai ver todas as receitas, 
 e a sengunda página que é a "receitas.html" que nela você vai ver a receita na qual foi selecionada.
+
+link do projeto: https://xandezz.github.io/Receitas/
